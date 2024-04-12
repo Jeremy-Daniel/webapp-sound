@@ -1,0 +1,26 @@
+
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color:bisque;
+    color: black;
+    width: 100%;
+    font-size: larger;
+border-top: black 2px solid;
+ text-align: center;
+}
+
+body{
+    background-color: antiquewhite;
+    font-family: 'PT Sans', sans-serif;
+font-family: 'Varela Round', sans-serif;
+}
+
+body{
+    font-family: 'PT Sans', sans-serif;
+    background-color: rgb(222, 208, 190);
+}
+
+
+
